@@ -2,7 +2,7 @@
 
 Python script allows to collect some CPU and MEMORY usage data.
 
-# Requirements
+### Requirements
 
 python 2 (written and verified on 2.7)
 
@@ -10,7 +10,7 @@ additional module **psutil**
 
 For more info about psutil and how to install see [**psutil** site](https://psutil.readthedocs.io/)
 
-## OS versions
+### OS versions
 Linux
 
 use script 'metrics', make executable, 2 options:
