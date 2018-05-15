@@ -12,13 +12,22 @@ For more info about psutil and how to install see [**psutil** site](https://psut
 
 ## OS versions
 Linux
+
 use script 'metrics', make executable, 2 options:
+
 ./metrics cpu
+
 or
+
 ./metrics mem
 
+
 Win (7)
+
 use script 'metrics_win.py'
+
 metrics_win.py mem
+
 or
+
 metrics_win.py cpu
